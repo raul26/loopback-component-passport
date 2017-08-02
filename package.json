@@ -9,14 +9,14 @@
     "security"
   ],
   "homepage": "https://github.com/jonathan-casarrubias/loopback-component-passport",
-  "version": "1.6.9",
+  "version": "1.7.0",
   "engines": {
     "node": ">=0.10.0"
   },
   "maintainers": [
     {
-      "name": "Jonathan Casarrubias",
-      "email": "jcasarrubias@bekast.com"
+      "name": "Raul Vargas",
+      "email": "rvargas@itexico.net"
     }
   ],
   "bugs": {
